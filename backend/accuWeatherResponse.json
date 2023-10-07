@@ -1,0 +1,170 @@
+{
+  "Headline": {
+    "EffectiveDate": "2023-10-07T08:00:00+02:00",
+    "EffectiveEpochDate": 1696658400,
+    "Severity": 4,
+    "Text": "Pleasant Saturday",
+    "Category": "mild",
+    "EndDate": null,
+    "EndEpochDate": null,
+    "MobileLink": "http://www.accuweather.com/en/hr/zagreb/117910/daily-weather-forecast/117910?lang=en-us",
+    "Link": "http://www.accuweather.com/en/hr/zagreb/117910/daily-weather-forecast/117910?lang=en-us"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2023-10-07T07:00:00+02:00",
+      "EpochDate": 1696654800,
+      "Temperature": {
+        "Minimum": {
+          "Value": 54,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 76,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 2,
+        "IconPhrase": "Mostly sunny",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 38,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/hr/zagreb/117910/daily-weather-forecast/117910?day=1&lang=en-us",
+      "Link": "http://www.accuweather.com/en/hr/zagreb/117910/daily-weather-forecast/117910?day=1&lang=en-us"
+    },
+    {
+      "Date": "2023-10-08T07:00:00+02:00",
+      "EpochDate": 1696741200,
+      "Temperature": {
+        "Minimum": {
+          "Value": 49,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 81,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 38,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/hr/zagreb/117910/daily-weather-forecast/117910?day=2&lang=en-us",
+      "Link": "http://www.accuweather.com/en/hr/zagreb/117910/daily-weather-forecast/117910?day=2&lang=en-us"
+    },
+    {
+      "Date": "2023-10-09T07:00:00+02:00",
+      "EpochDate": 1696827600,
+      "Temperature": {
+        "Minimum": {
+          "Value": 54,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 71,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 6,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/hr/zagreb/117910/daily-weather-forecast/117910?day=3&lang=en-us",
+      "Link": "http://www.accuweather.com/en/hr/zagreb/117910/daily-weather-forecast/117910?day=3&lang=en-us"
+    },
+    {
+      "Date": "2023-10-10T07:00:00+02:00",
+      "EpochDate": 1696914000,
+      "Temperature": {
+        "Minimum": {
+          "Value": 51,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 73,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 33,
+        "IconPhrase": "Clear",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/hr/zagreb/117910/daily-weather-forecast/117910?day=4&lang=en-us",
+      "Link": "http://www.accuweather.com/en/hr/zagreb/117910/daily-weather-forecast/117910?day=4&lang=en-us"
+    },
+    {
+      "Date": "2023-10-11T07:00:00+02:00",
+      "EpochDate": 1697000400,
+      "Temperature": {
+        "Minimum": {
+          "Value": 53,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 76,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 2,
+        "IconPhrase": "Mostly sunny",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 33,
+        "IconPhrase": "Clear",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/hr/zagreb/117910/daily-weather-forecast/117910?day=5&lang=en-us",
+      "Link": "http://www.accuweather.com/en/hr/zagreb/117910/daily-weather-forecast/117910?day=5&lang=en-us"
+    }
+  ]
+}
